@@ -8,8 +8,16 @@
 
 **Currently:** pretending to know what I'm doing.
 
-```text
-Status: probably breaking production
+```txt
+Status   : probably breaking production
+Coffee   : optional, panic : mandatory
+Bugs     : features with bad PR
 ```
+
+### Tech I mess with
+JavaScript · Python · HTML/CSS · Android
+
+### My workflow
+`code → error → Google → code → somehow works → commit`
 
 If it works, don't touch it.
